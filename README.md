@@ -27,3 +27,25 @@ The goal is to analyze whether these modifications improve the algorithm’s eff
 - `randomized_pagerank.py` for modified version
 - `comparison_plot.py` to visualize results
 
+## 📁 Project Structure
+```
+randomized-pagerank/  
+├── src/                          # Python source files  
+│   ├── deterministic_pagerank.py  
+│   ├── randomized_pagerank.py  
+│   └── comparison_plot.py  
+├── results/                      # Output graphs and data  
+│   └── efficiency_comparison.png  
+├── report/                       # Final PDF report  
+│   └── randomized.pdf  
+├── requirements.txt              # Python dependencies  
+└── README.md                     # Project documentation
+```
+## 👨‍💻 Author
+
+**Khoushik Raj Rasumalla**  
+MS in Computer Science  
+Washington State University  
+📫 Email: k.rasumalla@wsu.edu  
+🌐 LinkedIn: [linkedin.com/in/khoushikraj](https://www.linkedin.com/in/khoushikraj)  
+💻 GitHub: [github.com/khoushikraj](https://github.com/khoushikraj)
